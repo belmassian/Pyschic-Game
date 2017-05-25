@@ -1,0 +1,11 @@
+body {
+	background-image: url("psychic.jpg");
+	background-repeat:repeat-x;
+	text-align:left;
+	letter-spacing: 3px
+	line-height:500%;
+	color:gold;
+	font-weight: bold;
+	margin:auto;
+	font-size: 200%;
+}
